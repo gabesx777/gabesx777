@@ -1,67 +1,52 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo3dzExZ2Z6bG44aHJnc2s3amQyaWR6OXNieXR5M2I1NGZxMjkyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-</div>
+# Gabesx
+### Engenheiro de Software Backend
 
-###
+> *Código eficiente, infraestrutura resiliente.*
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+Engenheiro de software especializado no desenvolvimento de sistemas backend robustos e escaláveis. Com domínio em JavaScript/TypeScript e Node.js, atuo na construção de APIs performáticas, integrações com bancos de dados e orquestração de infraestrutura em nuvem.
 
-###
+Minha abordagem é orientada à solução de problemas complexos através de arquiteturas bem estruturadas, código limpo e otimização de performance, garantindo sistemas confiáveis e de fácil manutenção.
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gabesx777.gabesx777&"  />
-</div>
+Atualmente, estou expandindo meus horizontes e mergulhando no universo do frontend, com foco em React e Next.js, para me tornar um desenvolvedor fullstack completo.
 
-###
+---
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+### ⚡ Tecnologias
 
-###
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+</p>
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+---
 
-###
+### 🚀 O que faço
 
-<p data-importer="text" align="left">I am from Portugal.<br>- 🔭 I am not working.<br>- 📚 I am currently learning.<br>- ⚡ In my free time, I code...</p>
+- **APIs & Microsserviços** — Desenvolvimento de APIs RESTful e arquiteturas escaláveis com Node.js e TypeScript
+- **Cloud & Infraestrutura** — Deploy e gerenciamento na AWS (S3, IAM, EC2, Lambda)
+- **Banco de Dados** — Modelagem e otimização em MySQL e Firebase
+- **Containerização** — Ambientes isolados e reproduzíveis com Docker
+- **CI/CD** — Automação de pipelines com GitLab CI
 
-###
+---
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+### 🌱 Atualmente aprendendo
 
-###
+- React.js
+- Next.js
+- TailwindCSS (aprimorando)
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-</div>
+---
 
-###
+### 📫 Contato
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=gabesx777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+✉️ **agcborgex.pc@gmail.com**

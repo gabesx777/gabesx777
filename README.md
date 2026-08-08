@@ -11,7 +11,7 @@ Atualmente, estou expandindo meus horizontes e mergulhando no universo do fronte
 
 ---
 
-### ⚡ Tecnologias
+### Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -29,7 +29,7 @@ Atualmente, estou expandindo meus horizontes e mergulhando no universo do fronte
 
 ---
 
-### 🚀 O que faço
+### O que faço
 
 - **APIs & Microsserviços** — Desenvolvimento de APIs RESTful e arquiteturas escaláveis com Node.js e TypeScript
 - **Cloud & Infraestrutura** — Deploy e gerenciamento na AWS (S3, IAM, EC2, Lambda)
@@ -39,7 +39,7 @@ Atualmente, estou expandindo meus horizontes e mergulhando no universo do fronte
 
 ---
 
-### 🌱 Atualmente aprendendo
+### Atualmente aprendendo
 
 - React.js
 - Next.js

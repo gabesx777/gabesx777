@@ -11,6 +11,10 @@ Atualmente, estou expandindo meus horizontes e mergulhando no universo do fronte
 
 ---
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gabesx777.gabesx777&"  />
+</div>
+
 ### Tecnologias
 
 <p align="left">
